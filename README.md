@@ -1,4 +1,4 @@
-# "I was performing analysis of Craft Beers <i>before</i> it was cool" - Using NLP to find the best features for different styles of beers
+# "I was performing analysis of Craft Beers <i>before</i> it was cool" - Using NLP to find the best features of various styles of beers
 
 <img src="beers_image.jpeg" width="360" alt="Pictured: What I needed to get through my data cleaning">
 
