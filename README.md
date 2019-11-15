@@ -1,6 +1,6 @@
 # "I was performing analysis of craft beers before it was cool" — Using NLP to find the best features of various styles of beers
 
-
+<img src=beers_image.jpeg width=360 alt="What I needed to get through this project">
 
 Personal project using NLP and predictive models to provide insights into key features of beer
 
