@@ -20,7 +20,7 @@ As might be expected though there are a lot of inherently positive and negative 
 
 The top coefficients for (positive and negative) for APAs were these:
 
- <img src=images/APA_coefficients.jpeg>
+ <img src=../../images/APA_coefficients.jpeg>
   
 Based on the model, the key to making a well-liked APA is to make it fruity, especially tropical fruits, while avoiding making it bland or too much like a lager.
 
